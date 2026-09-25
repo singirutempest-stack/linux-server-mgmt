@@ -5,3 +5,5 @@
 - Follow the principle of least privilege.
 - Review scripts before running them with elevated privileges.
 - Use dry-run mode before destructive operations.
+
+- Destructive scripts must support a dry-run or preview mode where practical.

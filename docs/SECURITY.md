@@ -7,3 +7,5 @@
 - Use dry-run mode before destructive operations.
 
 - Destructive scripts must support a dry-run or preview mode where practical.
+
+Always inspect the dry-run output before enabling deletion. Test destructive operations on non-production data first.
